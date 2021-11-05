@@ -34,8 +34,8 @@ Download all 3 files and save in a folder on your system:
 
 1. Execute the file from the cmd/terminal. 
 2. You will have 2 files generated from running the script within the folder in which the python files were saved.
-    i. arpfile - A copy of the ARP table from each interface on the device.
-    ii. SpooLog - A log generated in the following format 
+    1. arpfile - A copy of the ARP table from each interface on the device.
+    2. SpoofLog - A log generated in the following format 
         Date Time Hostname: YOUR HOSTNAME - IP YOURIPADDRESS, Status: SYSTEM ARP STATUS
 
 ## Status 
